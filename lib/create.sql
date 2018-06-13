@@ -8,5 +8,5 @@ end_date DATE);
  
 CREATE TABLE users (
 id INTEGER PRIMARY KEY, 
-title TEXT, 
-category TEXT);
+name TEXT, 
+age INTEGER);
