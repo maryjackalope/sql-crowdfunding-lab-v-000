@@ -2,7 +2,7 @@ CREATE TABLE projects (
 id INTEGER PRIMARY KEY, 
 title TEXT, 
 category TEXT,
-quantity INTEGER, 
+funding_goal INTEGER, 
 aisle INTEGER);
  
 INSERT INTO groceries VALUES (1, "Apples", 2, 1);
